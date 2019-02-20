@@ -25,7 +25,7 @@ DEBUG下：给app加入查看日志的功能&&崩溃记录，重启提示
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'sy5075391' => '447523382@qq.com' }
-  s.source           = { :git => 'https://github.com/sy5075391/XKConsoleBoard.git', :tag => "1.0.0" }
+  s.source           = { :git => 'https://github.com/sy5075391/XKConsoleBoard.git'}
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
